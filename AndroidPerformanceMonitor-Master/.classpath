@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="blockcanary-analyzer/src/main/java"/>
+	<classpathentry kind="src" path="blockcanary-android-no-op/src/main/java"/>
+	<classpathentry kind="src" path="blockcanary-android/src/main/java"/>
+	<classpathentry kind="src" path="blockcanary-sample/src/main/java"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
