@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="card-slider-simple-example/src/androidTest/java"/>
+	<classpathentry kind="src" path="card-slider-simple-example/src/main/java"/>
+	<classpathentry kind="src" path="card-slider-simple-example/src/test/java"/>
+	<classpathentry kind="src" path="card-slider/src/androidTest/java"/>
+	<classpathentry kind="src" path="card-slider/src/main/java"/>
+	<classpathentry kind="src" path="card-slider/src/test/java"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
