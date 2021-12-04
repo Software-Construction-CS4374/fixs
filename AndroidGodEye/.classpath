@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="AndroidGodEye-master/android-godeye-idea-plugin/src"/>
+	<classpathentry kind="src" path="AndroidGodEye-master/android-godeye-monitor/src/androidTest/java"/>
+	<classpathentry kind="src" path="AndroidGodEye-master/android-godeye-monitor/src/main/java"/>
+	<classpathentry kind="src" path="AndroidGodEye-master/android-godeye-sample/src/main/java"/>
+	<classpathentry kind="src" path="AndroidGodEye-master/android-godeye-toolboxes/android-godeye-leakcanary/src/androidTest/java"/>
+	<classpathentry kind="src" path="AndroidGodEye-master/android-godeye-toolboxes/android-godeye-leakcanary/src/main/java"/>
+	<classpathentry kind="src" path="AndroidGodEye-master/android-godeye-toolboxes/android-godeye-leakcanary/src/test/java"/>
+	<classpathentry kind="src" path="AndroidGodEye-master/android-godeye-toolboxes/android-godeye-okhttp/src/androidTest/java"/>
+	<classpathentry kind="src" path="AndroidGodEye-master/android-godeye-toolboxes/android-godeye-okhttp/src/main/java"/>
+	<classpathentry kind="src" path="AndroidGodEye-master/android-godeye-toolboxes/android-godeye-okhttp/src/test/java"/>
+	<classpathentry kind="src" path="AndroidGodEye-master/android-godeye-toolboxes/android-godeye-xcrash/src/androidTest/java"/>
+	<classpathentry kind="src" path="AndroidGodEye-master/android-godeye-toolboxes/android-godeye-xcrash/src/main/java"/>
+	<classpathentry kind="src" path="AndroidGodEye-master/android-godeye-toolboxes/android-godeye-xcrash/src/test/java"/>
+	<classpathentry kind="src" path="AndroidGodEye-master/android-godeye/src/main/java"/>
+	<classpathentry kind="src" path="AndroidGodEye-master/android-godeye/src/test/java"/>
+	<classpathentry kind="lib" path="AndroidGodEye-master/android-godeye-idea-plugin/android-godeye-idea-plugin.jar"/>
+	<classpathentry kind="lib" path="AndroidGodEye-master/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
